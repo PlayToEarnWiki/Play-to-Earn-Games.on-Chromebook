@@ -1,1 +1,12 @@
 - https://play.google.com/store/apps/details?id=com.justplay.app
+- https://play.google.com/store/apps/details?id=us.current.android
+- https://play.google.com/store/apps/details?id=com.theoremreach.wizardbucks
+- https://play.google.com/store/apps/details?id=online.cashemall.app
+- https://play.google.com/store/apps/details?id=com.theoremreach.wizardbucks
+- https://play.google.com/store/apps/details?id=tyr.rewards
+- https://play.google.com/store/apps/details?id=com.mycashery
+- https://play.google.com/store/apps/details?id=thetestemall.app
+- https://play.google.com/store/apps/details?id=us.current.android
+- https://play.google.com/store/apps/details?id=tyr.rewards
+- https://play.google.com/store/apps/details?id=com.play.lucky.real.earn.money.free.fun.games.play.reward.income
+- https://play.google.com/store/apps/details?id=game.joyit.welfare
