@@ -14,3 +14,4 @@
 - https://play.google.com/store/apps/details?id=com.cashrewardsplay.free.cash.rewards.play.gift.cards.income.win.real.money.paid.survey
 - https://play.google.com/store/apps/details?id=com.iproyal.android
 - https://play.google.com/store/apps/details?id=com.packetshare.appv2
+- https://play.google.com/store/apps/details?id=com.app.repocket
